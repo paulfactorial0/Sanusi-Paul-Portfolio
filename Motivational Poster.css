@@ -1,0 +1,14 @@
+body{background-color: black;}
+h1{text-transform: uppercase;
+font-size: 2rem;}
+/* The div styling can be for either (frame and background) or Text */
+div{background-color: aqua;
+    width: 50%;
+margin-left: 25%;
+margin-top: 10px;
+color: rgb(239, 239, 247); /*This affect the text color in div not the background */
+font-family: cursive;  /* This affects the text in div only*/
+text-align: center;}
+
+.temi{border: 5px solid rgb(217, 213, 235); 
+    height: 120px; width: 100px;}
